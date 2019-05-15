@@ -76,5 +76,4 @@ colorscheme jellybeans
 set colorcolumn=80
 highlight ColorColumn ctermbg=240 guibg=#777777
 
-set whichwrap=b,s,h,l,<,>,[,]
 set backspace=indent,eol,start
