@@ -1,5 +1,9 @@
 # vim-ogino
-vim setting files for ogino.
+Vim setting files for ogino.
+
+using [dein.vim](https://github.com/Shougo/dein.vim)
 
 # setup
-`$ ./setup.sh`
+```sh
+$ ./setup.sh
+```
