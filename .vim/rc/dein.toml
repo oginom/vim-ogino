@@ -63,6 +63,9 @@ rtp = 'vim/'
 repo = 'dart-lang/dart-vim-plugin'
 
 [[plugins]]
+repo = 'jparise/vim-graphql'
+
+[[plugins]]
 repo = 'vim-syntastic/syntastic'
 hook_add = '''
   let g:syntastic_mode_map = { 'mode' : 'passive', 'active_filetypes' : ['go'] }
