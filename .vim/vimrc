@@ -14,6 +14,8 @@ set listchars=tab:>-,trail:-,eol:↲,extends:>,precedes:<,nbsp:%
 
 set hlsearch
 
+set mouse=a
+
 if has("autocmd")
   augroup redhat
     autocmd BufReadPost *
