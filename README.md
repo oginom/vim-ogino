@@ -5,5 +5,5 @@ using [dein.vim](https://github.com/Shougo/dein.vim)
 
 # setup
 ```sh
-$ ./setup.sh
+$bash setup.sh
 ```
